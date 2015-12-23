@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1450872872 "partie2.tex" "partie2.pdf" "partie2" 1450872872
+  "/etc/texmf/web2c/texmf.cnf" 1450837271 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1424169028 31088 8e088e958dd0258cc5414842768a3a00 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1424169028 31088 8e088e958dd0258cc5414842768a3a00 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1450837681 3841935 44126f9f6f71ed532fee59b5b6d79d7a ""
+  "partie2.aux" 1450872836 784 969774cdfb1cddccd0267093fcfd9953 ""
+  "partie2.tex" 1450872872 32 70b6c48bdcdd6e5cc723368887f13eec ""
+  (generated)
+  "partie2.log"
+  "partie2.pdf"

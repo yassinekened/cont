@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1450872976 "intro.tex" "intro.pdf" "intro" 1450872976
+  "/etc/texmf/web2c/texmf.cnf" 1450837271 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1424169028 31088 8e088e958dd0258cc5414842768a3a00 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1424169028 31088 8e088e958dd0258cc5414842768a3a00 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1450837681 3841935 44126f9f6f71ed532fee59b5b6d79d7a ""
+  "intro.aux" 1450872951 697 8ac92a8efbfe2dede812a5554e91eea5 ""
+  "intro.tex" 1450872968 128 5b74552070395a635028bf7e0c5ccf74 ""
+  (generated)
+  "intro.log"
+  "intro.pdf"
